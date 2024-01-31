@@ -1,5 +1,5 @@
 <p>Creat this repository to practice more about <br> React <img src="/src/assets/icons/React-Dark.svg"; width="22px"; margin="5px";><br> and TypeScript <img src="/src/assets/icons/TypeScript.svg"; width="22px"; margin="5px";> 
- <a href="https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html" target="blank"></a> <br> taking the opportunity to get to know tailwindcss <img src="/src/assets/icons/TailwindCSS-Dark.svg"; width="22px"; margin="5px";> </p><br><br><hr>
+ <a href="https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html"; target="blank";></a> <br> taking the opportunity to get to know tailwindcss <img src="/src/assets/icons/TailwindCSS-Dark.svg"; width="22px"; margin="5px";> </p><br><br><hr>
 
 
 # React + TypeScript + Vite
